@@ -1,0 +1,9 @@
+<?php
+define("COMPANY_NAME", "LAO TECH SOLUTIONS");
+const SUPPORT_PHONE = "020-5555-1234";
+define("DEFAULT_CURRENCY", "100.000LAK");
+
+echo "COMPANY NAME : " . COMPANY_NAME . "<br>";
+echo "SUPPORT PHONE : " . SUPPORT_PHONE . "<br>";
+echo "CURRENCY : " . DEFAULT_CURRENCY . "<br>";
+?>
